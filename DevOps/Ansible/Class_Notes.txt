@@ -118,6 +118,14 @@ Day 28 - 17th July 2026
 					- Ansible_Node2 (VM)
 
 			
+
+
+
+########################
+Day 29 - 20th July 2026
+########################
+
+			
 			- Ansible Playbook Variables
 			
 			- Handlers 
@@ -126,8 +134,21 @@ Day 28 - 17th July 2026
 			
 			- Conditional Executions 
 			
+	
+	
+			
 			- Ansible Roles 
 			
 			- Ansible Galaxy 
+			
+
+
+Next:::
+
+	- Terraform :::
+	
+	- Monitoring Tools - Prometheus & Grafana :::
+	
+	- Python Fundamentals :::
 			
 		
